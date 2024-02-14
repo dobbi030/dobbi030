@@ -1,13 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=350&section=header&text=Eunsun%&fontSize=90)
 
+<!---
 <div align="center">
-<h2>✨Hi, I'm Eunsun Kang✨</h2>
+<h2>✨오늘도 행복하세요✨</h2>
 </div>
-
-<!-- 방문자 수 -->
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobbi030&count_bg=%23FFB5C1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false"/></a>
-</div>
+--->
 
 <div align="center">
 <h4>🛠 What I use for work - Develop </h4>
@@ -26,19 +23,19 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </div>
 
+<br><br>
 
-
-<!--
-**dobbi030/dobbi030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ### 😁 Baekjoon Online Judge Solved 😁
+  [![Solved.ac souk0712](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstjs7047&card_width=2000)](https://solved.ac/profile/dmstjs7047)
+ 
+  ### 📖 Top Languages 📖
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobbi030&layout=compact&card_width=1000)](https://github.com/dobbi030/github-readme-stats)
+ 
+  ### 👩‍💻  GitHub Streak 👩‍💻 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dobbi030&card_width=1000)](https://git.io/streak-stats)
+ 
+  ### 👩‍ Github Stats 👩‍
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dobbi030&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=1000)](https://github.com/dobbi030/github-readme-stats)
+</div>
